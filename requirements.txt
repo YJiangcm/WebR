@@ -1,0 +1,5 @@
+transformers>=4.42.3
+openai>=1.57.1
+pyarrow>=16.1.0
+datasketch>=1.6.5
+vllm>=0.4.0
