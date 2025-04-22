@@ -108,6 +108,6 @@ Please cite our paper if you find the repo helpful in your work:
 title={Instruction-Tuning Data Synthesis from Scratch via Web Reconstruction},
 author={Jiang, Yuxin and Wang, Yufei and Wu, Chuhan and Dai, Xinyi and Xu, Yan and Gan, Weinan and Wang, Yasheng and Jiang, Xin and Shang, Lifeng and Tang, Ruiming and Wang, Wei},
 booktitle={Arxiv},
-year={2025},
+year={2025}
 }
 ```
