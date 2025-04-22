@@ -12,6 +12,11 @@ Overview of the proposed **Web Reconstruction** (WebR) framework.
 Leveraging an off-the-shelf LLM, WebR transforms raw web documents into high-quality instruction-response pairs.
 It strategically assigns each document as either an instruction or a response to trigger the process of web reconstruction.
 
+We released our generated datasets on Huggingface:
+| **Dataset**    | **Generator** | **Size** |
+|-------------------|--------------|--------------|
+| WebR-Basic | Llama3-70B-Instruct | 100k |
+| WebR-Pro | GPT-4o-mini | 100k |
 
 ## 1. Installation
 
