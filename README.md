@@ -104,11 +104,10 @@ We further evaluated downstream performance on six diverse tasks, following the 
 Please cite our paper if you find the repo helpful in your work:
 
 ```bibtex
-@inproceedings{jiang2025dpobmc,
-title={Bridging and Modeling Correlations in Pairwise Data for Direct Preference Optimization},
-author={Jiang, Yuxin and Huang, bo and Wang, Yufei and Zeng Xingshan and Li, Liangyou and Wang, Yasheng and Jiang, Xin and Shang, Lifeng and Tang, Ruiming and Wang, Wei},
-booktitle={The Thirteenth International Conference on Learning Representations},
+@inproceedings{jiang2025webr,
+title={Instruction-Tuning Data Synthesis from Scratch via Web Reconstruction},
+author={Jiang, Yuxin and Wang, Yufei and Wu, Chuhan and Dai, Xinyi and Xu, Yan and Gan, Weinan and Wang, Yasheng and Jiang, Xin and Shang, Lifeng and Tang, Ruiming and Wang, Wei},
+booktitle={Arxiv},
 year={2025},
-url={https://openreview.net/forum?id=hRwxZmcvW9}
 }
 ```
