@@ -15,8 +15,8 @@ It strategically assigns each document as either an instruction or a response to
 We released our generated datasets on Huggingface:
 | **Dataset**    | **Generator** | **Size** |
 |-------------------|--------------|--------------|
-| [WebR-Basic 🤗]() | Llama3-70B-Instruct | 100k |
-| [WebR-Pro 🤗]() | GPT-4o-mini | 100k |
+| [WebR-Basic 🤗](https://huggingface.co/datasets/YuxinJiang/WebR-Basic-100k) | Llama3-70B-Instruct | 100k |
+| [WebR-Pro 🤗](https://huggingface.co/datasets/YuxinJiang/WebR-Pro-100k) | GPT-4o-mini | 100k |
 
 ## 1. Installation
 
