@@ -1,6 +1,11 @@
-# Code for "Instruction-Tuning Data Synthesis from Scratch via Web Reconstruction"
+# Instruction-Tuning Data Synthesis from Scratch via Web Reconstruction
 
 This repository contains code and instructions for synthesizing instruction-tuning datasets directly from raw web data and training large language models (LLMs) to improve instruction-following capabilities.
+
+Overview of the proposed **Web Reconstruction** (WebR) framework.
+Leveraging an off-the-shelf LLM, WebR transforms raw web documents into high-quality instruction-response pairs.
+It strategically assigns each document as either an instruction or a response to trigger the process of web reconstruction.
+
 
 ## 1. Installation
 
@@ -83,3 +88,16 @@ We further evaluated downstream performance on six diverse tasks, following the 
 - MATH
 - GSM8K
 - HumanEval
+
+## 📝 Citation
+Please cite our paper if you find the repo helpful in your work:
+
+```bibtex
+@inproceedings{jiang2025dpobmc,
+title={Bridging and Modeling Correlations in Pairwise Data for Direct Preference Optimization},
+author={Jiang, Yuxin and Huang, bo and Wang, Yufei and Zeng Xingshan and Li, Liangyou and Wang, Yasheng and Jiang, Xin and Shang, Lifeng and Tang, Ruiming and Wang, Wei},
+booktitle={The Thirteenth International Conference on Learning Representations},
+year={2025},
+url={https://openreview.net/forum?id=hRwxZmcvW9}
+}
+```
