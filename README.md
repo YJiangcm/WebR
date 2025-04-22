@@ -2,6 +2,12 @@
 
 This repository contains code and instructions for synthesizing instruction-tuning datasets directly from raw web data and training large language models (LLMs) to improve instruction-following capabilities.
 
+<p align="center">
+    <br>
+    <img src="figures/framework.png" width="600"/>
+    <br>
+</p>
+
 Overview of the proposed **Web Reconstruction** (WebR) framework.
 Leveraging an off-the-shelf LLM, WebR transforms raw web documents into high-quality instruction-response pairs.
 It strategically assigns each document as either an instruction or a response to trigger the process of web reconstruction.
