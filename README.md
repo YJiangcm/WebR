@@ -1,4 +1,4 @@
-# Instruction-Tuning Data Synthesis from Scratch via Web Reconstruction
+# Instruction-Tuning Data Synthesis from Scratch via Web Reconstruction (ACL 2025)
 
 This repository contains code and instructions for synthesizing instruction-tuning datasets directly from raw web data and training large language models (LLMs) to improve instruction-following capabilities.
 
